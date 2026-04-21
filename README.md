@@ -554,9 +554,5 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Dilan Kanirmal**
+**Dilanka Nirmal**
 - GitHub: [@dilankanirmal98](https://github.com/dilankanirmal98)
-
----
-
-*Built as part of a technical assessment for NewNop — demonstrating full-stack MERN development with industry-level folder structure, TypeScript, JWT authentication, and cloud deployment.*
