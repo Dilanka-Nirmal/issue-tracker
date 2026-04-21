@@ -6,8 +6,8 @@ A full-featured issue tracking application built with the MERN stack (MongoDB, E
 
 ## Live Demo
 
-- **Frontend:** https://issue-tracker-client.vercel.app
-- **Backend API:** https://issue-tracker-api.vercel.app/api/health
+- **Frontend:** https://issue-tracker-client-chi.vercel.app/
+- **Backend API:** https://issue-tracker-api-ten.vercel.app/api/health
 
 ---
 
